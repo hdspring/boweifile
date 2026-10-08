@@ -1,0 +1,6 @@
+# macOS metadata
+.DS_Store
+._*
+
+# Temporary Microsoft Office files
+~$*
